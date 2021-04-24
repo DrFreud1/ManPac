@@ -1,0 +1,30 @@
+############################
+#oooooOoooooo##ooooooOooooo#
+#O####o#####o##o#####o####O#
+#o####o#####o##o#####o####o#
+#o####o#####o##o#####o####o#
+#ooooOoooooooooooooooOooooo#
+#o####o##o########o##o####o#
+#oooooo##oOoo##ooOo##oooooo#
+######o##### ## #####o######
+     #o##### ## #####o#     
+     #o##          ##o#     
+     #o## ###__### ##o#     
+######o## #______# ##o######
+      O   #______#   O      
+######o## #______# ##o######
+     #o## ######## ##o#     
+     #o##          ##o#     
+     #o## ######## ##o#     
+######o## ######## ##o######
+#oooooOoooooo##ooooooOooooo#
+#o####o#####o##o#####o####o#
+#o####o#####o##o#####o####o#
+#Ooo##ooooooo  ooooooo##ooO#
+###o##o##o########o##o##o###
+###o##o##o########o##o##o###
+#oooooo##oOoo##ooOo##oooooo#
+#o##########o##o##########o#
+#o##########o##o##########o#
+#oooooOooooooooooooooOooooo#
+############################
