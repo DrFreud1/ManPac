@@ -1,5 +1,7 @@
 # ManPac
 
+### Description
+
 ManPac is a variant of the traditional PacMan game.
 
 The reverse Pac-Man mechanic works as follows: The player
@@ -17,6 +19,8 @@ will be directed to the next level; otherwise, the ghost dies
 and the game ends. The final score is calculated based on the
 number of coins remaining, the more coins remaining on the
 board the higher the score will be.
+
+### Execution
 
 The game can be executed with cabal as follows: 
   cabal ManPac.cabal
